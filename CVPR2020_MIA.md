@@ -8,7 +8,7 @@
 
 3. Organ at Risk Segmentation for Head and Neck Cancer using Stratified Learning and Neural Architecture Search (paper, code)
 
-4. 
+4. Instance Segmentation of Biological Images Using Harmonic Embeddings (paper, code)
 
 
 ## Classification (4 papers)
@@ -16,6 +16,7 @@
 
 
 ## Synthesis & reconsstruction (4 papers)
+1. 
 
 ## CAD (2 papers)
 
