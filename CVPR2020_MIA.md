@@ -9,3 +9,16 @@
 3. Organ at Risk Segmentation for Head and Neck Cancer using Stratified Learning and Neural Architecture Search (paper, code)
 
 4. 
+
+
+## Classification (4 papers)
+1. Multi-scale Domain-adversarial Multiple-instance CNN for Cancer Subtype Classification with Unannotated Histopathological Images (paper, code)
+
+
+## Synthesis & reconsstruction (4 papers)
+
+## CAD (2 papers)
+
+## Motion and tracking (2 papers)
+
+## Registration (2 papers)
