@@ -1,0 +1,2 @@
+CNN-based semantic segmentation methods for segmenting high-resolution images often suffer from the memory issue.
+'[Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images](https://arxiv.org/abs/1905.06368)'
