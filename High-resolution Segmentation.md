@@ -6,4 +6,4 @@
 |4|[CascadePSP: Toward Class-Agnostic and Very High-Resolution Segmentation via Global and Local Refinement](http://hkchengad.student.ust.hk/CascadePSP/CascadePSP.pdf) ([code](https://github.com/hkchengrex/CascadePSP))|CVPR 2020|
 |5|[Deep High-Resolution Representation Learning for Visual Recognition](https://arxiv.org/pdf/1908.07919.pdf)|PAMI|
 |6|[SAN: Scale-Aware Network for Semantic Segmentation of High-Resolution Aerial Images](https://arxiv.org/pdf/1907.03089.pdf)|IEEE GEOSCIENCE AND REMOTE SENSING LETTERS|
-|7|[Gated Convolutional Neural Network for Semantic Segmentation in High-Resolution Images](file:///home/ql/Downloads/remotesensing-09-00446-v2.pdf)|Remote sensing|
+|7|[Gated Convolutional Neural Network for Semantic Segmentation in High-Resolution Images](https://www.mdpi.com/2072-4292/9/5/446/htm)|Remote sensing|
