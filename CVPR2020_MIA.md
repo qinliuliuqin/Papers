@@ -28,7 +28,7 @@
 ## Synthesis & Reconsstruction (4 papers)
 | Index | Title | Modality & Application |
 |----|----|----|
-|1| [A Spatiotemporal Volumetric Interpolation Network for 4D Dynamic Medical Image](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_A_Spatiotemporal_Volumetric_Interpolation_Network_for_4D_Dynamic_Medical_Image_CVPR_2020_paper.pdf) (code) |CT & MR|
+|1| [A Spatiotemporal Volumetric Interpolation Network for 4D Dynamic Medical Image](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_A_Spatiotemporal_Volumetric_Interpolation_Network_for_4D_Dynamic_Medical_Image_CVPR_2020_paper.pdf) ([code](https://github.com/guoyu-niubility/SVIN)) |CT & MR|
 |2| [Augmenting Colonoscopy using Extended and Directional CycleGAN for Lossy Image Translation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mathew_Augmenting_Colonoscopy_Using_Extended_and_Directional_CycleGAN_for_Lossy_Image_CVPR_2020_paper.pdf) (code) |Colonoscopy|
 |3| [SAINT: Spatially Aware Interpolation NeTwork for Medical Slice Synthesis](https://arxiv.org/pdf/2001.00704.pdf) (code) |CT|
 |4| [DuDoRNet: Learning a Dual-Domain Recurrent Network for Fast MRI Reconstruction with Deep T1 Prior](https://arxiv.org/pdf/2001.03799.pdf) (code) |MRI|
