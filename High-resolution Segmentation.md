@@ -7,3 +7,6 @@
 |5|[Deep High-Resolution Representation Learning for Visual Recognition](https://arxiv.org/pdf/1908.07919.pdf)|PAMI|
 |6|[SAN: Scale-Aware Network for Semantic Segmentation of High-Resolution Aerial Images](https://arxiv.org/pdf/1907.03089.pdf)|IEEE GEOSCIENCE AND REMOTE SENSING LETTERS|
 |7|[Gated Convolutional Neural Network for Semantic Segmentation in High-Resolution Images](https://www.mdpi.com/2072-4292/9/5/446/htm)|Remote sensing|
+
+## Review
+[Image Segmentation Using Deep Learning: A Survey](https://arxiv.org/pdf/2001.05566.pdf)
