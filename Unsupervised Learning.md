@@ -7,7 +7,7 @@
 # Adversarial training and adversarial attacks
 |Index|Title|Year|Note|
 |----|----|----|----|
-|1|[Intriguing properties of neural networks](https://arxiv.org/pdf/1312.6199.pdf) (This is the first paper that discover the adversarial vulnerability of NNs)|||
+|1|[Intriguing properties of neural networks](https://arxiv.org/pdf/1312.6199.pdf) (This is the first paper that discovers the adversarial vulnerability of NNs)|||
 
 [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083.pdf)
 
