@@ -23,4 +23,4 @@
 # Unsupervised learning for segmentation
 |Index|Title|Brief|
 |----|----|----|
-|1|ee|ee|
+|1|[Medical Image Segmentation via Unsupervised Convolutional Neural Network](https://arxiv.org/pdf/2001.10155.pdf)|MIDL 2020|
