@@ -27,3 +27,10 @@
 |2|[Unsupervised Learning of Image Segmentation Based on Differentiable Feature Clustering](https://arxiv.org/pdf/2007.09990.pdf)|IEEE TIP 2020|
 |3|[Improving Robustness of Deep Learning Based Knee MRI Segmentation: Mixup and Adversarial Domain Adaptation](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VRMI/Panfilov_Improving_Robustness_of_Deep_Learning_Based_Knee_MRI_Segmentation_Mixup_ICCVW_2019_paper.pdf)|ICCV 2019|
 |4|[Improving Data Augmentation for Medical Image Segmentation](https://openreview.net/references/pdf?id=B1-9HbnxX)||
+
+# Segmentation loss function
+|Index|Title|Brief|
+|----|----|----|
+|1|[Correlation Maximized Structural Similarity Loss for Semantic Segmentation](https://arxiv.org/pdf/1910.08711.pdf)||
+
+
