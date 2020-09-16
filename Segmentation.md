@@ -33,6 +33,6 @@
 # Segmentation loss function
 |Index|Title|Brief|
 |----|----|----|
-|1|[Correlation Maximized Structural Similarity Loss for Semantic Segmentation](https://arxiv.org/pdf/1910.08711.pdf)||
+|1|[Correlation Maximized Structural Similarity Loss for Semantic Segmentation](https://arxiv.org/pdf/1910.08711.pdf)|这个loss function值得深入研究。|
 
 
