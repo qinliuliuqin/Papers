@@ -34,5 +34,6 @@
 |Index|Title|Brief|
 |----|----|----|
 |1|[Correlation Maximized Structural Similarity Loss for Semantic Segmentation](https://arxiv.org/pdf/1910.08711.pdf)|这个loss function值得深入研究。|
+|2|[On the Mathematical Properties of the Structural Similarity Index](https://ece.uwaterloo.ca/~z70wang/publications/TIP_SSIM_MathProperties.pdf)|这篇论文分析了ssim 的数学特性|
 
 
