@@ -28,6 +28,7 @@
 |3|[Improving Robustness of Deep Learning Based Knee MRI Segmentation: Mixup and Adversarial Domain Adaptation](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VRMI/Panfilov_Improving_Robustness_of_Deep_Learning_Based_Knee_MRI_Segmentation_Mixup_ICCVW_2019_paper.pdf)|ICCV 2019 膝关节分割，细读|
 |4|[Improving Data Augmentation for Medical Image Segmentation](https://openreview.net/references/pdf?id=B1-9HbnxX)|这篇文章提到用Mixup来做data augmentation|
 |5|[UNSUPERVISED IMAGE SEGMENTATION BY BACKPROPAGATION](https://kanezaki.github.io/pytorch-unsupervised-segmentation/ICASSP2018_kanezaki.pdf)||
+|6|[Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Weakly_Supervised_Learning_of_Instance_Segmentation_With_Inter-Pixel_Relations_CVPR_2019_paper.pdf)|CVPR 2019|
 
 # Segmentation loss function
 |Index|Title|Brief|
