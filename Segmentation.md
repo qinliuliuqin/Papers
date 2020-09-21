@@ -29,7 +29,7 @@
 |4|[Improving Data Augmentation for Medical Image Segmentation](https://openreview.net/references/pdf?id=B1-9HbnxX)|这篇文章提到用Mixup来做data augmentation。alpha=0.4时效果最好。|
 |5|[UNSUPERVISED IMAGE SEGMENTATION BY BACKPROPAGATION](https://kanezaki.github.io/pytorch-unsupervised-segmentation/ICASSP2018_kanezaki.pdf)||
 |6|[Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Weakly_Supervised_Learning_of_Instance_Segmentation_With_Inter-Pixel_Relations_CVPR_2019_paper.pdf)|CVPR 2019|
-|7|[Digging Into Pseudo Label: A Low-Budget Approach for Semi-Supervised Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9003388)|Pseudo labelling for segmentation|
+|7|[Digging Into Pseudo Label: A Low-Budget Approach for Semi-Supervised Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9003388)|Pseudo labelling for segmentation。提到了分割标注比分类任务繁重N倍。|
 
 
 # Segmentation loss function
