@@ -26,6 +26,7 @@
 |1|[Medical Image Segmentation via Unsupervised Convolutional Neural Network](https://arxiv.org/pdf/2001.10155.pdf)|MIDL 2020|
 |2|[Unsupervised Learning of Image Segmentation Based on Differentiable Feature Clustering](https://arxiv.org/pdf/2007.09990.pdf)|IEEE TIP 2020|
 |3|[Improving Robustness of Deep Learning Based Knee MRI Segmentation: Mixup and Adversarial Domain Adaptation](https://openaccess.thecvf.com/content_ICCVW_2019/papers/VRMI/Panfilov_Improving_Robustness_of_Deep_Learning_Based_Knee_MRI_Segmentation_Mixup_ICCVW_2019_paper.pdf)|ICCV 2019 膝关节分割，细读|
+|3-r1|[Learning to Adapt Structured Output Space for Semantic Segmentation](https://arxiv.org/pdf/1802.10349.pdf)|文献２的引用文献，介绍了UDA的用法。|
 |4|[Improving Data Augmentation for Medical Image Segmentation](https://openreview.net/references/pdf?id=B1-9HbnxX)|这篇文章提到用Mixup来做data augmentation。alpha=0.4时效果最好。|
 |5|[UNSUPERVISED IMAGE SEGMENTATION BY BACKPROPAGATION](https://kanezaki.github.io/pytorch-unsupervised-segmentation/ICASSP2018_kanezaki.pdf)||
 |6|[Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Weakly_Supervised_Learning_of_Instance_Segmentation_With_Inter-Pixel_Relations_CVPR_2019_paper.pdf)|CVPR 2019|
