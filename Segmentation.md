@@ -42,3 +42,10 @@
 |2|[On the Mathematical Properties of the Structural Similarity Index](https://ece.uwaterloo.ca/~z70wang/publications/TIP_SSIM_MathProperties.pdf)|这篇论文分析了ssim 的数学特性|
 |3|[Adaptive Affinity Fields for Semantic Segmentation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Jyh-Jing_Hwang_Adaptive_Affinity_Field_ECCV_2018_paper.pdf)|引入了AAF的概念用于分割，需结合ssim一起理解。|
 
+# Others
+|Index|Title|Brief|
+|----|----|----|
+|1|[Adaptive Affinity Fields for Semantic Segmentation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Jyh-Jing_Hwang_Adaptive_Affinity_Field_ECCV_2018_paper.pdf)|ECCV 2018|
+
+
+
