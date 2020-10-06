@@ -32,6 +32,8 @@
 |6|[Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Weakly_Supervised_Learning_of_Instance_Segmentation_With_Inter-Pixel_Relations_CVPR_2019_paper.pdf)|CVPR 2019|
 |7|[Digging Into Pseudo Label: A Low-Budget Approach for Semi-Supervised Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9003388)|Pseudo labelling for segmentation。提到了分割标注比分类任务繁重N倍。|
 |8|[Self-Loop Uncertainty: A Novel Pseudo-Label for Semi-Supervised Medical Image Segmentation](https://arxiv.org/pdf/2007.09854.pdf)||
+|9|[Semi-Supervised Semantic Segmentation with Cross-Consistency Training](https://arxiv.org/pdf/2003.09005.pdf)|CVPR 2020||
+
 
 # Segmentation loss function
 |Index|Title|Brief|
