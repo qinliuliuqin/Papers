@@ -33,7 +33,7 @@
 |7|[Digging Into Pseudo Label: A Low-Budget Approach for Semi-Supervised Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9003388)|Pseudo labelling for segmentation。提到了分割标注比分类任务繁重N倍。|
 |8|[Self-Loop Uncertainty: A Novel Pseudo-Label for Semi-Supervised Medical Image Segmentation](https://arxiv.org/pdf/2007.09854.pdf)||
 |9|[Semi-Supervised Semantic Segmentation with Cross-Consistency Training](https://arxiv.org/pdf/2003.09005.pdf)|CVPR 2020||
-
+|10|[Semi-Supervised Semantic Image Segmentation with Self-correcting Networks](https://arxiv.org/pdf/1811.07073.pdf)|CVPR 2020　这篇论文启发了weakly supervised pseudo labeling的idea|
 
 # Segmentation loss function
 |Index|Title|Brief|
