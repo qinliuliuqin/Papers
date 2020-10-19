@@ -35,7 +35,7 @@
 |9|[Semi-Supervised Semantic Segmentation with Cross-Consistency Training](https://arxiv.org/pdf/2003.09005.pdf)|CVPR 2020||
 |10|[Semi-Supervised Semantic Image Segmentation with Self-correcting Networks](https://arxiv.org/pdf/1811.07073.pdf)|CVPR 2020　这篇论文启发了weakly supervised pseudo labeling的idea|
 |11|[Semi-supervised semantic segmentation needs strong, varied perturbations](https://arxiv.org/pdf/1906.01916.pdf)|值得一读|
-[12] [Pseudo-Labeling and Confirmation Bias in Deep Semi-Supervised Learning](https://arxiv.org/abs/1908.02983)|这篇文章介绍了什么是confirmation bias|
+|12|[Pseudo-Labeling and Confirmation Bias in Deep Semi-Supervised Learning](https://arxiv.org/abs/1908.02983)|这篇文章介绍了什么是confirmation bias|
 
 # Segmentation loss function
 |Index|Title|Brief|
