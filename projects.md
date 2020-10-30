@@ -5,8 +5,3 @@
 |2|[Deep Learning Approach for Assessment of Bladder Cancer Treatment Response](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6403041/)|2019|Tomography (IF=1.301)||
 |3|[Study Progress of Radiomics With Machine Learning for Precision Medicine in Bladder Cancer Management](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6892826/)|2019|Front Oncol (IF=4.250)||
 |4|[Augmented Bladder Tumor Detection Using Deep Learning](https://urology.stanford.edu/content/dam/sm/urology/JJimages/publications/Augmented-bladder-tumor-detection-using-deep-learning.pdf)|2019|Brief Correspondence in European Urology (IF=17.581)||
-
-# CT Artifacts Reduction project
-|Index|Title|Year|Source|Comments|
-|----|----|----|----|----|
-|1|[ADN: Artifact Disentanglement Network for Unsupervised Metal Artifact Reduction](https://arxiv.org/pdf/1908.01104.pdf)|2019|||
