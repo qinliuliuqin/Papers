@@ -1,3 +1,6 @@
+# ETH Zurich
+[Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/pdf/1711.09081.pdf)
+
 # University of Toronto
 [Beyond Fixed Grid: Learning Geometric Image Representation with a Deformable Grid](https://arxiv.org/pdf/2008.09269.pdf) \
 [Fast Interactive Object Annotation with Curve-GCN](https://arxiv.org/pdf/1903.06874.pdf)
