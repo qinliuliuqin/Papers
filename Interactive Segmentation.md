@@ -16,3 +16,7 @@
 |----|----|----|----|----|
 |1|[Reviving Iterative Training with Mask Guidance for Interactive Segmentation](https://arxiv.org/pdf/2102.06583.pdf)|2021|arxiv||
 |2|[f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation](https://arxiv.org/pdf/2001.10331.pdf)|2020|CVPR||
+
+# Beijing Jiaotong University
+|Index|Title|Year|Source|Comments|
+||[Interactive Object Segmentation with Inside-Outside Guidance](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Interactive_Object_Segmentation_With_Inside-Outside_Guidance_CVPR_2020_paper.pdf)|2020|CVPR||
