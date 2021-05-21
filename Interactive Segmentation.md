@@ -1,7 +1,7 @@
 # ETH Zurich
 |Index|Title|Year|Source|Comments|
 |----|----|----|----|----|
-|1|[Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/pdf/1711.09081.pdf)||||
+|1|[Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/pdf/1711.09081.pdf)|2018|CVPR|[project website](https://cvlsegmentation.github.io/dextr/#downloads)|
 
 # University of Toronto
 |Index|Title|Year|Source|Comments|
