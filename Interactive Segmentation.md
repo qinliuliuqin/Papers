@@ -11,8 +11,14 @@
 |2017|CVPR|[Annotating Object Instances with a Polygon-RNN](http://www.cs.toronto.edu/polyrnn/poly_cvpr17/polyrnn_paper.pdf)|Univ. of Toronto|
 |2017|CVPR|[Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/pdf/1711.09081.pdf)|ETH|
 
-# Topological preserving segmentation
+# Topology preserving segmentation
 |Year|Source|Title|Institution|
 |----|----|----|----|
 |2021|ICLR|[Topology-aware Segmentation Using Discrete Morse Theory](https://arxiv.org/pdf/2103.09992.pdf)|Stony Brook University|
 |2019|NIPS|[Topology-Preserving Deep Image Segmentation](https://papers.nips.cc/paper/2019/file/2d95666e2649fcfc6e3af75e09f5adb9-Paper.pdf)|Stony Brook University|
+
+
+# Interactive Topology-aware reconstruction
+|Year|Source|Title|Institution|
+|----|----|----|----|
+|2007|ACM Trans. on Graphics|[Interactive Topology-aware Surface Reconstruction](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.2293&rep=rep1&type=pdf)|Tel Aviv University|
