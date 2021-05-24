@@ -12,6 +12,7 @@
 |2017|CVPR|[Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/pdf/1711.09081.pdf)|ETH|
 
 # Topological preserving segmentation
-|Year|Title|Source|Institution|
+|Year|Source|Title|Institution|
 |----|----|----|----|
+|2021|ICLR|[Topology-aware Segmentation Using Discrete Morse Theory](https://arxiv.org/pdf/2103.09992.pdf)|Stony Brook University|
 |2019|NIPS|[Topology-Preserving Deep Image Segmentation](https://papers.nips.cc/paper/2019/file/2d95666e2649fcfc6e3af75e09f5adb9-Paper.pdf)|Stony Brook University|
