@@ -22,3 +22,8 @@
 |Year|Source|Title|Institution|
 |----|----|----|----|
 |2007|ACM Trans. on Graphics|[Interactive Topology-aware Surface Reconstruction](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.701.2293&rep=rep1&type=pdf)|Tel Aviv University|
+
+# Polygon parameterization
+|Year|Source|Title|Institution|
+|----|----|----|----|
+|2020|CVPR|[PolyTransform: Deep Polygon Transformer for Instance Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_PolyTransform_Deep_Polygon_Transformer_for_Instance_Segmentation_CVPR_2020_paper.pdf)|Uber|
