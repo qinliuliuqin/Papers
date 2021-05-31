@@ -6,6 +6,7 @@
 |2020|CVPR|[f-BRS: Rethinking Backpropagating Refinement for Interactive Segmentation](https://arxiv.org/pdf/2001.10331.pdf)|Samsung AI Center – Moscow|
 |2020|CVPR|[Interactive Object Segmentation with Inside-Outside Guidance](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Interactive_Object_Segmentation_With_Inside-Outside_Guidance_CVPR_2020_paper.pdf)|Beijing Jiaotong Univ.|
 |2020|CVPR|[Interactive Image Segmentation with First Click Attention](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Interactive_Image_Segmentation_With_First_Click_Attention_CVPR_2020_paper.pdf)| Nankai University|
+|2020|ECCV|[Continuous Adaptation for Interactive Object Segmentation by Learning from Corrections](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610562.pdf)|Google Research|
 |2020|ECCV|[Beyond Fixed Grid: Learning Geometric Image Representation with a Deformable Grid](https://arxiv.org/pdf/2008.09269.pdf)|Univ. of Toronto|
 |2019|CVPR|[Fast Interactive Object Annotation with Curve-GCN](https://arxiv.org/pdf/1903.06874.pdf)|Univ. of Toronto|
 |2018|CVPR|[Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++](https://arxiv.org/pdf/1803.09693.pdf)|Univ. of Toronto|
