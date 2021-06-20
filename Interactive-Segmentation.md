@@ -1,5 +1,7 @@
 # Video object segmentation
-
+[Interactive Video Object Segmentation in the Wild](https://arxiv.org/pdf/1801.00269.pdf)
+[Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion](https://arxiv.org/pdf/2103.07941v3.pdf)
+[Learning to Recommend Frame for Interactive Video Object Segmentation in the Wild](https://arxiv.org/pdf/2103.10391.pdf)
 
 # Interactive segmentation
 
