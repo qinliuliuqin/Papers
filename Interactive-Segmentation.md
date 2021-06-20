@@ -39,4 +39,5 @@
 |----|----|----|----|
 |2020|CVPR|[PolyTransform: Deep Polygon Transformer for Instance Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_PolyTransform_Deep_Polygon_Transformer_for_Instance_Segmentation_CVPR_2020_paper.pdf)|Uber|
 
-
+# SuperPixel
+[Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation](https://arxiv.org/pdf/1503.00848.pdf)
