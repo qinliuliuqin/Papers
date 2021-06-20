@@ -1,10 +1,10 @@
 # Video object segmentation
 |Year|Source|Title|Institution|
 |----|----|----|----|
+|2021||[Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion](https://arxiv.org/pdf/2103.07941v3.pdf)||
+|2021||[Learning to Recommend Frame for Interactive Video Object Segmentation in the Wild](https://arxiv.org/pdf/2103.10391.pdf)||
+|2021||[Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps](https://openaccess.thecvf.com/content/CVPR2021/papers/Heo_Guided_Interactive_Video_Object_Segmentation_Using_Reliability-Based_Attention_Maps_CVPR_2021_paper.pdf)||
 |2017||[Interactive Video Object Segmentation in the Wild](https://arxiv.org/pdf/1801.00269.pdf)||
-|||[Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion](https://arxiv.org/pdf/2103.07941v3.pdf)||
-|||[Learning to Recommend Frame for Interactive Video Object Segmentation in the Wild](https://arxiv.org/pdf/2103.10391.pdf)||
-|||[Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps](https://openaccess.thecvf.com/content/CVPR2021/papers/Heo_Guided_Interactive_Video_Object_Segmentation_Using_Reliability-Based_Attention_Maps_CVPR_2021_paper.pdf)||
 
 # Interactive segmentation
 
