@@ -16,8 +16,7 @@
 |2020|CVPR|[Interactive Image Segmentation with First Click Attention](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Interactive_Image_Segmentation_With_First_Click_Attention_CVPR_2020_paper.pdf)| Nankai University|
 |2020|ECCV|[Continuous Adaptation for Interactive Object Segmentation by Learning from Corrections](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610562.pdf)|Google Research|
 |2020|ECCV|[Beyond Fixed Grid: Learning Geometric Image Representation with a Deformable Grid](https://arxiv.org/pdf/2008.09269.pdf)|Univ. of Toronto|
-|2019|ICCV|[Video object segmentation using space-time memory
-networks](https://arxiv.org/pdf/1904.00607.pdf)||
+|2019|ICCV|[Video object segmentation using space-time memory networks](https://arxiv.org/pdf/1904.00607.pdf)||
 |2019|CVPR|[Interactive Full Image Segmentation by Considering All Regions Jointly](https://openaccess.thecvf.com/content_CVPR_2019/papers/Agustsson_Interactive_Full_Image_Segmentation_by_Considering_All_Regions_Jointly_CVPR_2019_paper.pdf)||
 |2019|CVPR|[Content-Aware Multi-Level Guidance for Interactive Instance Segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Majumder_Content-Aware_Multi-Level_Guidance_for_Interactive_Instance_Segmentation_CVPR_2019_paper.pdf)|National University of Singapore|
 |2019|CVPR|[Fast Interactive Object Annotation with Curve-GCN](https://arxiv.org/pdf/1903.06874.pdf)|Univ. of Toronto|
